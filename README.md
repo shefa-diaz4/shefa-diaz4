@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://shvadiaz.blogspot.com/](https://shvadiaz.blogspot.com/)
 
-- 💬 Ask me about **Docker, Linux, Git & DevOps fundamentals**
+- 💬 Ask me about **Docker, Kubernetes, Linux, Git & CI/CD**
 
 - 📫 How to reach me **shvadiaz38@gmail.com**
 
